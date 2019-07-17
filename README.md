@@ -19,7 +19,7 @@ npm install
 
 Get your API key from https://coinmarketcal.com/en/api.
 
-Initialize object with your APi key.
+Initialize object with your API key.
 
 ```
 const coinmarketcal = new CoinMarketCal('YOUR_API_KEY')
