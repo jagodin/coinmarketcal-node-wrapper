@@ -1,4 +1,4 @@
-const CoinMarketCal = require('coinmarketcal');
+const CoinMarketCal = require('./lib/index.js');
 
 // Get your API key here: https://coinmarketcal.com/en/developer/register
 apiKey = 'YOUR_API_KEY';
