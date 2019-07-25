@@ -31,7 +31,7 @@ const coinmarketcal = new CoinMarketCal('YOUR_API_KEY')
 const CoinMarketCal = require('./lib/index.js');
 
 // Get your API key here: https://coinmarketcal.com/en/developer/register
-apiKey = 'YOUR_API_KEY';
+var apiKey = 'YOUR_API_KEY';
 
 const coinmarketcal = new CoinMarketCal(apiKey);
 
